@@ -2,14 +2,18 @@
 
 A simple accurate word count filter for Craft CMS
 
-##Installation
+## Installation
 
 1. Move the `wordcount` directory to `craft/plugins` directory.
 2. Install wordcount under Craft Admin › Settings › Plugins.
 
-##Usage
+## Usage
 `{{ entry.field | wordCount }}`
 
-##License
+Will output
 
-This work is licenced under the MIT license.
+`100`
+
+## License
+
+This work is licensed under the MIT license.
